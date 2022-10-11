@@ -1,5 +1,5 @@
 ## Asela H Premawansha
-* Student at University of Peradeniya<br><br>* Learning Flutter and Web Development<br><br>* Video Game and Movie Lover
+* Student at University of Peradeniya<br>* Learning Flutter and Web Development<br><br> * Video Game and Movie Lover
 
 ---
 ### Contact Me 💌 :
